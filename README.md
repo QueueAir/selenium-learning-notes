@@ -3,7 +3,7 @@
 My hands-on practice code while learning Selenium WebDriver with Java.
 
 ## Course
-Selenium WebDriver with Java - Basics to Advanced + Frameworks (Rahul Shetty, Udemy).
+Selenium WebDriver with Java - Basics to Advanced + Frameworks
 All code here is written by me while following along and experimenting.
 
 ## Tech Stack
