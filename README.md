@@ -16,7 +16,7 @@ All code here is written by me while following along and experimenting.
 | Section | Topic | Status |
 |---------|-------|--------|
 | 01 | Selenium basics, invoking the browser | Done |
-| 02 | Locators (ID, CSS, XPath) | In progress |
+| 02 | Locators (ID, CSS, XPath) | In progress 80% |
 | 03 | Dropdowns, checkboxes | Planned |
 | 04 | Alerts, frames, windows | Planned |
 | 05 | Waits | Planned |
